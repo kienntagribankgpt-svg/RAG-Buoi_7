@@ -1,0 +1,18 @@
+PYTHON_INTERPRETER=D:\du_an_cua_ban\.venv\Scripts\python.exe
+PKG:streamlit=PASS
+PKG:google-genai=PASS
+PKG:chromadb=PASS
+PKG:psycopg=FAIL (ImportError: no pq wrapper available.
+Attempts made:
+- couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+- couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+- couldn't import psycopg 'python' implementation: libpq library not found)
+PKG:python-dotenv=PASS
+CHROMA_SERVER=False
+CHROMA_STORAGE=RAG\rag_foundation\buoi_06\storage\chroma
+POSTGRES_STATUS=FAIL (ImportError: no pq wrapper available.
+Attempts made:
+- couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+- couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+- couldn't import psycopg 'python' implementation: libpq library not found)
+RAG_DB_STATUS=UNKNOWN

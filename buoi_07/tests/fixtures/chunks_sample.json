@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "hier_1",
+    "strategy": "hierarchical",
+    "source": "sample_doc.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "This is a hierarchical chunk representing a single-page section."
+  },
+  {
+    "chunk_id": "hier_2",
+    "strategy": "hierarchical",
+    "source": "sample_doc.pdf",
+    "page_start": 2,
+    "page_end": 3,
+    "text": "This hierarchical chunk spans multiple pages and contains an overview."
+  },
+  {
+    "chunk_id": "hier_3",
+    "strategy": "hierarchical",
+    "source": "sample_doc.pdf",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Another hierarchical chunk with short text."
+  },
+  {
+    "chunk_id": "semantic_1",
+    "strategy": "semantic",
+    "source": "sample_doc.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "A semantic chunk capturing meaning across sentences."
+  },
+  {
+    "chunk_id": "fixed_1",
+    "strategy": "fixed-size",
+    "source": "sample_doc.pdf",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "A fixed-size chunk (e.g., 500 tokens)."
+  }
+]
