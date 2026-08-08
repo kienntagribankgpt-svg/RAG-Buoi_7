@@ -1,0 +1,27 @@
+{
+  "total_files": 1,
+  "files": [
+    {
+      "name": "chunks_result.json",
+      "size": 737,
+      "valid_json": true,
+      "top_type": "object",
+      "top_keys": [
+        "fixed"
+      ],
+      "sample_fields_present": {
+        "chunk_id": true,
+        "strategy": true,
+        "source": true,
+        "page_start": true,
+        "page_end": true,
+        "text": true
+      },
+      "num_chunks": 1
+    }
+  ],
+  "strategy_counts": {
+    "fixed-size": 1
+  },
+  "total_valid_chunks": 1
+}
