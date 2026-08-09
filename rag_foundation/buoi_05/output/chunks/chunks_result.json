@@ -1,13 +1,75 @@
-{
-  "fixed": [
-    {
-      "chunk_id": "fixed_0",
-      "strategy": "fixed-size",
-      "source": "van_ban_mau.pdf",
-      "page_start": 1,
-      "page_end": 11,
-      "text": "\n--- Trang 1 ---\nCQNG HOAXA HQI CHU NGHiAVIET NAM\nDQc lQp -Tr; do - Hqnh phric\n56: 02 l2O23l'f't-NHNN\nHdN|i,ngdy 2j thdng 4 ndm2023\nChuang I\nQUY DINH CHI]NG\nDidu 1. Ph4m vi tli6u chinh\nTh6ng tu ndy quy dlnh ve viQc t6 chirc tin dgng, chi nhrlnh ngdn hirng nu6c\nngodi co ciu lpi thcrih4n trd ng, git nguy6n nh6m ng nhim h5 trq kh6ch hang gip\nkh6 khin trong ho4t dQng san *uAt kinh doanh vi kh6ch hdng gAp kh6 khdn tra ng\nvay phqc v1l nhu cAu doi s6ng, ti6u dtng.\nDidu 2. O6i tuqng rip dgng\n1 T6 chirc ",
-      "length": 500
-    }
-  ]
-}
+[
+  {
+    "chunk_id": "fixed_0",
+    "strategy": "fixed-size",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "CQNG HOA XA HQI CHU NGHIA VIET NAM\nDQc lQp - Tu do - Hanh phuc"
+  },
+  {
+    "chunk_id": "fixed_1",
+    "strategy": "fixed-size",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Chuang I\nQUY DINH CHUNG\nDidu 1. Ph4m vi tli6u chinh"
+  },
+  {
+    "chunk_id": "fixed_2",
+    "strategy": "fixed-size",
+    "source": "van_ban_mau.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Didu 2. O6i tuqng rip dgng\n1 T6 chirc tin dung"
+  },
+  {
+    "chunk_id": "hierarchical_0",
+    "strategy": "hierarchical",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Parent chunk representing the general regulations and scope."
+  },
+  {
+    "chunk_id": "hierarchical_1",
+    "strategy": "hierarchical",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Child chunk: Didu 1. Pham vi dieu chinh",
+    "parent_id": "hierarchical_0"
+  },
+  {
+    "chunk_id": "semantic_0",
+    "strategy": "semantic",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Semantic group for document metadata and title."
+  },
+  {
+    "chunk_id": "semantic_1",
+    "strategy": "semantic",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Semantic group for Article 1 (Scope of application)."
+  },
+  {
+    "chunk_id": "recursive_0",
+    "strategy": "recursive",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Recursive splitting chunk for Article 1 and 2."
+  },
+  {
+    "chunk_id": "recursive_1",
+    "strategy": "recursive",
+    "source": "van_ban_mau.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Recursive splitting chunk for Article 3."
+  }
+]
