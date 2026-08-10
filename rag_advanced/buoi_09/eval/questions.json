@@ -1,0 +1,18 @@
+[
+  {
+    "question_id": "Q01",
+    "question": "Điều kiện vay vốn và nhu cầu vốn không được cho vay được quy định thế nào?",
+    "question_type": "multi_aspect",
+    "relevant_child_ids": ["CHK_001", "CHK_004"],
+    "relevant_parent_ids": ["PARENT_Thong_tu_02.pdf_Điều 7", "PARENT_Thong_tu_02.pdf_Điều 8"],
+    "needs_human_review": false
+  },
+  {
+    "question_id": "Q02",
+    "question": "Thời hạn cơ cấu lại thời hạn trả nợ kéo dài đến khi nào?",
+    "question_type": "exact",
+    "relevant_child_ids": ["CHK_003"],
+    "relevant_parent_ids": ["PARENT_Thong_tu_02.pdf_Điều 7"],
+    "needs_human_review": false
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "child_id": "hierarchical_0",
+    "parent_id": "PARENT_van_ban_mau.pdf_Dieu_Unspecified",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Parent chunk representing the general regulations and scope.",
+    "structural_path": {},
+    "resolution_method": "document_fallback",
+    "ambiguous": false,
+    "warnings": []
+  },
+  {
+    "child_id": "hierarchical_1",
+    "parent_id": "PARENT_van_ban_mau.pdf_Dieu_Unspecified",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Child chunk: Didu 1. Pham vi dieu chinh",
+    "structural_path": {},
+    "resolution_method": "document_fallback",
+    "ambiguous": false,
+    "warnings": []
+  },
+  {
+    "child_id": "CHK_001",
+    "parent_id": "PARENT_Thong_tu_02.pdf_Điều 7",
+    "source": "Thong_tu_02.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Điều 7. Cơ cấu lại thời hạn trả nợ. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xem xét quyết định việc cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và/hoặc lãi của khoản nợ trên cơ sở đề nghị của khách hàng.",
+    "structural_path": {
+      "chapter": "Chương II",
+      "article": "Điều 7",
+      "clause": null,
+      "point": null
+    },
+    "resolution_method": "metadata",
+    "ambiguous": false,
+    "warnings": []
+  },
+  {
+    "child_id": "CHK_002",
+    "parent_id": "PARENT_Thong_tu_02.pdf_Điều 7",
+    "source": "Thong_tu_02.pdf",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Khoản 1 Điều 7: Khách hàng không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng do doanh thu, thu nhập sụt giảm bởi ảnh hưởng dịch bệnh hoặc thiên tai.",
+    "structural_path": {
+      "chapter": "Chương II",
+      "article": "Điều 7",
+      "clause": "Khoản 1",
+      "point": null
+    },
+    "resolution_method": "metadata",
+    "ambiguous": false,
+    "warnings": []
+  },
+  {
+    "child_id": "CHK_003",
+    "parent_id": "PARENT_Thong_tu_02.pdf_Điều 7",
+    "source": "Thong_tu_02.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Khoản 2 Điều 7: Việc cơ cấu lại thời hạn trả nợ cho khách hàng được thực hiện đến hết ngày 31 tháng 12 năm 2024.",
+    "structural_path": {
+      "chapter": "Chương II",
+      "article": "Điều 7",
+      "clause": "Khoản 2",
+      "point": null
+    },
+    "resolution_method": "metadata",
+    "ambiguous": false,
+    "warnings": []
+  },
+  {
+    "child_id": "CHK_004",
+    "parent_id": "PARENT_Thong_tu_02.pdf_Điều 8",
+    "source": "Thong_tu_02.pdf",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Điều 8. Giữ nguyên nhóm nợ. Tổ chức tín dụng được giữ nguyên nhóm nợ đã phân loại theo quy định của Ngân hàng Nhà nước Việt Nam đối với số dư nợ được cơ cấu.",
+    "structural_path": {
+      "chapter": "Chương II",
+      "article": "Điều 8",
+      "clause": null,
+      "point": null
+    },
+    "resolution_method": "metadata",
+    "ambiguous": false,
+    "warnings": []
+  }
+]

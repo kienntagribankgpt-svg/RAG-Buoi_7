@@ -1,0 +1,47 @@
+[
+  {
+    "parent_id": "PARENT_van_ban_mau.pdf_Dieu_Unspecified",
+    "source": "van_ban_mau.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "article_key": "Dieu_Unspecified",
+    "child_ids": [
+      "hierarchical_0",
+      "hierarchical_1"
+    ],
+    "text": "Parent chunk representing the general regulations and scope.\nChild chunk: Didu 1. Pham vi dieu chinh",
+    "char_count": 100,
+    "ambiguous_child_count": 0,
+    "warnings": []
+  },
+  {
+    "parent_id": "PARENT_Thong_tu_02.pdf_Điều 7",
+    "source": "Thong_tu_02.pdf",
+    "page_start": 3,
+    "page_end": 5,
+    "article_key": "Điều 7",
+    "child_ids": [
+      "CHK_001",
+      "CHK_002",
+      "CHK_003"
+    ],
+    "text": "Điều 7. Cơ cấu lại thời hạn trả nợ. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xem xét quyết định việc cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và/hoặc lãi của khoản nợ trên cơ sở đề nghị của khách hàng.\nKhoản 1 Điều 7: Khách hàng không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng do doanh thu, thu nhập sụt giảm bởi ảnh hưởng dịch bệnh hoặc thiên tai.\nKhoản 2 Điều 7: Việc cơ cấu lại thời hạn trả nợ cho khách hàng được thực hiện đến hết ngày 31 tháng 12 năm 2024.",
+    "char_count": 495,
+    "ambiguous_child_count": 0,
+    "warnings": []
+  },
+  {
+    "parent_id": "PARENT_Thong_tu_02.pdf_Điều 8",
+    "source": "Thong_tu_02.pdf",
+    "page_start": 6,
+    "page_end": 6,
+    "article_key": "Điều 8",
+    "child_ids": [
+      "CHK_004"
+    ],
+    "text": "Điều 8. Giữ nguyên nhóm nợ. Tổ chức tín dụng được giữ nguyên nhóm nợ đã phân loại theo quy định của Ngân hàng Nhà nước Việt Nam đối với số dư nợ được cơ cấu.",
+    "char_count": 157,
+    "ambiguous_child_count": 0,
+    "warnings": []
+  }
+]
