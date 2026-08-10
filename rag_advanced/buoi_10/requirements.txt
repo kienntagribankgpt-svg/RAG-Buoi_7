@@ -1,0 +1,6 @@
+﻿neo4j
+torch
+transformers
+sentence-transformers
+beautifulsoup4
+python-dotenv
