@@ -5,7 +5,7 @@
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -22,7 +22,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -45,7 +45,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -73,7 +73,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -90,7 +90,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -113,7 +113,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -141,7 +141,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -158,7 +158,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -181,7 +181,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -209,7 +209,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -226,7 +226,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -249,7 +249,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -277,7 +277,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -294,7 +294,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -317,7 +317,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
