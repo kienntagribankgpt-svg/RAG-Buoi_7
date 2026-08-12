@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 from pathlib import Path
-from advanced_rag import bm25_search, rrf_fusion, apply_cross_encoder_rerank
+from RAG.rag_foundation.buoi_08.advanced_rag import bm25_search, rrf_fusion, apply_cross_encoder_rerank
 
 st.set_page_config(page_title="Buổi 08 — Advanced RAG Workshop", layout="wide")
 
