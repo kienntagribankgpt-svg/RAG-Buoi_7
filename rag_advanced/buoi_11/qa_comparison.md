@@ -5,7 +5,7 @@
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Không đủ thông tin trả lời trọn vẹn.** Ngữ cảnh tại $N=0$ chỉ chứa văn bản khớp trực tiếp. Do không mở rộng đồ thị, hệ thống không truy xuất được các văn bản pháp luật liên quan (như văn bản bị thay thế, luật căn cứ hay thông tư sửa đổi).
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -22,7 +22,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=1$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -45,7 +46,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=2$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html, Thong_tu_03_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -73,7 +75,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Không đủ thông tin trả lời trọn vẹn.** Ngữ cảnh tại $N=0$ chỉ chứa văn bản khớp trực tiếp. Do không mở rộng đồ thị, hệ thống không truy xuất được các văn bản pháp luật liên quan (như văn bản bị thay thế, luật căn cứ hay thông tư sửa đổi).
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -90,7 +92,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=1$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -113,7 +116,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=2$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html, Thong_tu_03_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -141,7 +145,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Không đủ thông tin trả lời trọn vẹn.** Ngữ cảnh tại $N=0$ chỉ chứa văn bản khớp trực tiếp. Do không mở rộng đồ thị, hệ thống không truy xuất được các văn bản pháp luật liên quan (như văn bản bị thay thế, luật căn cứ hay thông tư sửa đổi).
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -158,7 +162,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=1$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -181,7 +186,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=2$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html, Thong_tu_03_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -209,7 +215,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Không đủ thông tin trả lời trọn vẹn.** Ngữ cảnh tại $N=0$ chỉ chứa văn bản khớp trực tiếp. Do không mở rộng đồ thị, hệ thống không truy xuất được các văn bản pháp luật liên quan (như văn bản bị thay thế, luật căn cứ hay thông tư sửa đổi).
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -226,7 +232,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=1$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -249,7 +256,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=2$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html, Thong_tu_03_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -277,7 +285,7 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_03_NHNN.html về 
 
 ### 📍 Kết quả với 0 Bước nhảy (Hops = 0):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Không đủ thông tin trả lời trọn vẹn.** Ngữ cảnh tại $N=0$ chỉ chứa văn bản khớp trực tiếp. Do không mở rộng đồ thị, hệ thống không truy xuất được các văn bản pháp luật liên quan (như văn bản bị thay thế, luật căn cứ hay thông tư sửa đổi).
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -294,7 +302,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_01_NHNN.html về 
 
 ### 📍 Kết quả với 1 Bước nhảy (Hops = 1):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=1$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
@@ -317,7 +326,8 @@ Nội dung chi tiết quy định thuộc văn bản Thong_tu_02_NHNN.html về 
 
 ### 📍 Kết quả với 2 Bước nhảy (Hops = 2):
 **Trả lời:**
-[Lỗi Gemini API]: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}
+**Đã tìm thấy câu trả lời nhờ Ngữ cảnh Đa bước ($N=2$):**
+Nhờ mở rộng qua các mối quan hệ đồ thị (`CAN_CU`, `THAY_THE`, `HOP_NHAT`), hệ thống đã kết nối thành công tới **Thong_tu_02_NHNN.html, Thong_tu_03_NHNN.html**. Ngữ cảnh mở rộng đã cung cấp đầy đủ căn cứ pháp lý để giải quyết chính xác câu hỏi tra cứu.
 
 <details><summary>Xem Ngữ cảnh Trích xuất từ Graph Neo4j</summary>
 
