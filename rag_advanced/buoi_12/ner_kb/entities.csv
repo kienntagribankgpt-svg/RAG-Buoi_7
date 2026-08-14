@@ -1,0 +1,36 @@
+﻿entity_id,entity_type,canonical_name,original_name,source_doc_id,method,confidence,evidence
+ENT_COQ_QUC_HI,CoQuan,Quốc hội,Quốc hội,166170,rule,0.98,Cơ quan ban hành của 166170
+ENT_NGU_VNG_NH_HU,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166170,regex,0.95,Chữ ký của 166170
+ENT_DOI_NGN_HNG_THNG_MI,DoiTuongApDung,Ngân hàng thương mại,Ngân hàng thương mại,166170,rule,0.94,Đối tượng áp dụng tại 166170
+ENT_DOI_T_CHC_TN_DNG,DoiTuongApDung,Tổ chức tín dụng,Tổ chức tín dụng,166170,rule,0.94,Đối tượng áp dụng tại 166170
+ENT_LIN_TN_DNG,LinhVuc,Tín dụng,Tín dụng,166170,rule,0.95,Lĩnh vực của 166170
+ENT_COQ_CHNH_PH,CoQuan,Chính phủ,Chính phủ,112025,rule,0.98,Cơ quan ban hành của 112025
+ENT_NGU_NGUYN_XUN_PHC,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,112025,regex,0.95,Chữ ký của 112025
+ENT_LIN_KINH_DOANH_BO_HIM,LinhVuc,Kinh doanh Bảo hiểm,Kinh doanh Bảo hiểm,112025,rule,0.95,Lĩnh vực của 112025
+ENT_COQ_NGN_HNG_NH_NC_VIT_NA,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,38128,rule,0.98,Cơ quan ban hành của 38128
+ENT_NGU_O_MINH_T,NguoiKy,Đào Minh Tú,Đào Minh Tú,38128,regex,0.95,Chữ ký của 38128
+ENT_DOI_CHI_NHNH_NGN_HNG_NC_,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,38128,rule,0.94,Đối tượng áp dụng tại 38128
+ENT_LIN_PHT_HNH_V_KHO_QU,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,38128,rule,0.95,Lĩnh vực của 38128
+ENT_NGU_NGUYN_PH_TRNG,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,26750,regex,0.95,Chữ ký của 26750
+ENT_LIN_HOT_NG_NGN_HNG,LinhVuc,Hoạt động Ngân hàng,Hoạt động Ngân hàng,26750,rule,0.95,Lĩnh vực của 26750
+ENT_NGU_L_MINH_KHI,NguoiKy,Lê Minh Khái,Lê Minh Khái,163441,regex,0.95,Chữ ký của 163441
+ENT_LIN_BO_HIM,LinhVuc,Bảo hiểm,Bảo hiểm,163441,rule,0.95,Lĩnh vực của 163441
+ENT_LIN_CHNG_KHON,LinhVuc,Chứng khoán,Chứng khoán,146468,rule,0.95,Lĩnh vực của 146468
+ENT_LIN_THANH_TRA_GIM_ST_NGN,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",168220,rule,0.95,Lĩnh vực của 168220
+ENT_NGU_PHM_THANH_H,NguoiKy,Phạm Thanh Hà,Phạm Thanh Hà,169221,regex,0.95,Chữ ký của 169221
+ENT_LIN_QUN_L_NGOI_HI,LinhVuc,Quản lý ngoại hối,Quản lý ngoại hối,169221,rule,0.95,Lĩnh vực của 169221
+ENT_NGU_NGUYN_TN_DNG,NguoiKy,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,95652,regex,0.95,Chữ ký của 95652
+ENT_LIN_TN_DNG__CHO_VAY,LinhVuc,Tín dụng & Cho vay,Tín dụng & Cho vay,95652,rule,0.95,Lĩnh vực của 95652
+ENT_COQ_B_TI_CHNH,CoQuan,Bộ Tài chính,Bộ Tài chính,f69936f0-6937-11f1-a48d-29bc6b0fd706,rule,0.98,Cơ quan ban hành của f69936f0-6937-11f1-a48d-29bc6b0fd706
+ENT_NGU_NGUYN_C_CHI,NguoiKy,Nguyễn Đức Chi,Nguyễn Đức Chi,f69936f0-6937-11f1-a48d-29bc6b0fd706,regex,0.95,Chữ ký của f69936f0-6937-11f1-a48d-29bc6b0fd706
+ENT_NGU_TRN_XUN_H,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,30402,regex,0.95,Chữ ký của 30402
+ENT_LIN_QUN_L_DCH_V_TI_CHNH_,LinhVuc,Quản lý dịch vụ tài chính và các quỹ tài chính,Quản lý dịch vụ tài chính và các quỹ tài chính,30402,rule,0.95,Lĩnh vực của 30402
+ENT_NGU_ON_THI_SN,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173460,regex,0.95,Chữ ký của 173460
+ENT_NGU_TRN_MINH_TUN,NguoiKy,Trần Minh Tuấn,Trần Minh Tuấn,27257,regex,0.95,Chữ ký của 27257
+ENT_NGU_NGI_C_THM_QUYN,NguoiKy,Người có thẩm quyền,Người có thẩm quyền,143217,regex,0.95,Chữ ký của 143217
+ENT_NGU_T_ANH_TUN,NguoiKy,Tạ Anh Tuấn,Tạ Anh Tuấn,150974,regex,0.95,Chữ ký của 150974
+ENT_LIN_K_TON_KIM_TON,LinhVuc,"Kế toán, kiểm toán","Kế toán, kiểm toán",150974,rule,0.95,Lĩnh vực của 150974
+ENT_LIN_CC_AN_TON_H_THNG_CC_,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,186482,rule,0.95,Lĩnh vực của 186482
+ENT_DOI_DOANH_NGHIP_BO_HIM,DoiTuongApDung,Doanh nghiệp bảo hiểm,Doanh nghiệp bảo hiểm,112924,rule,0.94,Đối tượng áp dụng tại 112924
+ENT_LIN_LAO_NG_TIN_LNG_TIN_C,LinhVuc,"Lao động, tiền lương, tiền công","Lao động, tiền lương, tiền công",185630,rule,0.95,Lĩnh vực của 185630
+ENT_NGU_NGUYN_NG_TIN,NguoiKy,Nguyễn Đồng Tiến,Nguyễn Đồng Tiến,117310,regex,0.95,Chữ ký của 117310

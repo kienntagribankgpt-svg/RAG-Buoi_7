@@ -1,0 +1,143 @@
+﻿doc_id,entity,entity_type,source,method,confidence,evidence
+166170,Quốc hội,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 166170
+166170,Vương Đình Huệ,NguoiKy,content,regex,0.95,Chữ ký của 166170
+166170,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 166170
+166170,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 166170
+166170,Tín dụng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 166170
+112025,Chính phủ,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 112025
+112025,Nguyễn Xuân Phúc,NguoiKy,content,regex,0.95,Chữ ký của 112025
+112025,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 112025
+112025,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 112025
+112025,Kinh doanh Bảo hiểm,LinhVuc,enriched,rule,0.95,Lĩnh vực của 112025
+38128,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 38128
+38128,Đào Minh Tú,NguoiKy,content,regex,0.95,Chữ ký của 38128
+38128,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 38128
+38128,Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 38128
+38128,Phát hành và kho quỹ,LinhVuc,enriched,rule,0.95,Lĩnh vực của 38128
+26750,Quốc hội,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 26750
+26750,Nguyễn Phú Trọng,NguoiKy,content,regex,0.95,Chữ ký của 26750
+26750,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 26750
+26750,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 26750
+163441,Chính phủ,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 163441
+163441,Lê Minh Khái,NguoiKy,content,regex,0.95,Chữ ký của 163441
+163441,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 163441
+163441,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 163441
+163441,Bảo hiểm,LinhVuc,enriched,rule,0.95,Lĩnh vực của 163441
+146468,Chính phủ,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 146468
+146468,Nguyễn Xuân Phúc,NguoiKy,content,regex,0.95,Chữ ký của 146468
+146468,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 146468
+146468,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 146468
+146468,Chứng khoán,LinhVuc,enriched,rule,0.95,Lĩnh vực của 146468
+168220,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 168220
+168220,Đào Minh Tú,NguoiKy,content,regex,0.95,Chữ ký của 168220
+168220,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 168220
+168220,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 168220
+168220,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 168220
+133858,Chính phủ,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 133858
+133858,Nguyễn Xuân Phúc,NguoiKy,content,regex,0.95,Chữ ký của 133858
+133858,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 133858
+133858,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 133858
+169221,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 169221
+169221,Phạm Thanh Hà,NguoiKy,content,regex,0.95,Chữ ký của 169221
+169221,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 169221
+169221,Quản lý ngoại hối,LinhVuc,enriched,rule,0.95,Lĩnh vực của 169221
+95652,Chính phủ,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 95652
+95652,Nguyễn Tấn Dũng,NguoiKy,content,regex,0.95,Chữ ký của 95652
+95652,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 95652
+95652,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 95652
+95652,Tín dụng & Cho vay,LinhVuc,enriched,rule,0.95,Lĩnh vực của 95652
+f69936f0-6937-11f1-a48d-29bc6b0fd706,Bộ Tài chính,CoQuan,metadata,rule,0.98,Cơ quan ban hành của f69936f0-6937-11f1-a48d-29bc6b0fd706
+f69936f0-6937-11f1-a48d-29bc6b0fd706,Nguyễn Đức Chi,NguoiKy,content,regex,0.95,Chữ ký của f69936f0-6937-11f1-a48d-29bc6b0fd706
+f69936f0-6937-11f1-a48d-29bc6b0fd706,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại f69936f0-6937-11f1-a48d-29bc6b0fd706
+f69936f0-6937-11f1-a48d-29bc6b0fd706,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại f69936f0-6937-11f1-a48d-29bc6b0fd706
+f69936f0-6937-11f1-a48d-29bc6b0fd706,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của f69936f0-6937-11f1-a48d-29bc6b0fd706
+30402,Bộ Tài chính,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 30402
+30402,Trần Xuân Hà,NguoiKy,content,regex,0.95,Chữ ký của 30402
+30402,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 30402
+30402,Quản lý dịch vụ tài chính và các quỹ tài chính,LinhVuc,enriched,rule,0.95,Lĩnh vực của 30402
+173460,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 173460
+173460,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 173460
+173460,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 173460
+173460,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 173460
+173460,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 173460
+27257,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 27257
+27257,Trần Minh Tuấn,NguoiKy,content,regex,0.95,Chữ ký của 27257
+27257,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 27257
+27257,Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 27257
+27257,Tín dụng & Cho vay,LinhVuc,enriched,rule,0.95,Lĩnh vực của 27257
+143217,Bộ Tài chính,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 143217
+143217,Người có thẩm quyền,NguoiKy,content,regex,0.95,Chữ ký của 143217
+143217,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 143217
+143217,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 143217
+168859,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 168859
+168859,Đào Minh Tú,NguoiKy,content,regex,0.95,Chữ ký của 168859
+168859,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 168859
+168859,Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 168859
+168859,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 168859
+150974,Bộ Tài chính,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 150974
+150974,Tạ Anh Tuấn,NguoiKy,content,regex,0.95,Chữ ký của 150974
+150974,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 150974
+150974,"Kế toán, kiểm toán",LinhVuc,enriched,rule,0.95,Lĩnh vực của 150974
+164719,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 164719
+164719,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 164719
+164719,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 164719
+164719,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 164719
+164719,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 164719
+173695,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 173695
+173695,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 173695
+173695,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 173695
+173695,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 173695
+173695,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 173695
+186482,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 186482
+186482,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 186482
+186482,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 186482
+186482,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 186482
+186482,Cục An toàn hệ thống các tổ chức tín dụng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 186482
+112924,Bộ Tài chính,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 112924
+112924,Trần Xuân Hà,NguoiKy,content,regex,0.95,Chữ ký của 112924
+112924,Doanh nghiệp bảo hiểm,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 112924
+112924,Kinh doanh Bảo hiểm,LinhVuc,enriched,rule,0.95,Lĩnh vực của 112924
+174218,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 174218
+174218,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 174218
+174218,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 174218
+174218,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 174218
+174218,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 174218
+186888,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 186888
+186888,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 186888
+186888,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 186888
+186888,Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 186888
+186888,Cục An toàn hệ thống các tổ chức tín dụng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 186888
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 6e689cd0-6f81-11f1-94d6-fd5d6d5ff793
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 6e689cd0-6f81-11f1-94d6-fd5d6d5ff793
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 6e689cd0-6f81-11f1-94d6-fd5d6d5ff793
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 6e689cd0-6f81-11f1-94d6-fd5d6d5ff793
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 6e689cd0-6f81-11f1-94d6-fd5d6d5ff793
+185630,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 185630
+185630,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 185630
+185630,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 185630
+185630,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 185630
+185630,"Lao động, tiền lương, tiền công",LinhVuc,enriched,rule,0.95,Lĩnh vực của 185630
+117310,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 117310
+117310,Nguyễn Đồng Tiến,NguoiKy,content,regex,0.95,Chữ ký của 117310
+117310,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 117310
+117310,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 117310
+117310,"Thanh tra, giám sát ngân hàng",LinhVuc,enriched,rule,0.95,Lĩnh vực của 117310
+166269,Quốc hội,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 166269
+166269,Vương Đình Huệ,NguoiKy,content,regex,0.95,Chữ ký của 166269
+166269,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 166269
+166269,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 166269
+177271,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 177271
+177271,Đoàn Thái Sơn,NguoiKy,content,regex,0.95,Chữ ký của 177271
+177271,Ngân hàng thương mại,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 177271
+177271,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 177271
+177271,Cục An toàn hệ thống các tổ chức tín dụng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 177271
+44209,Ngân hàng Nhà nước Việt Nam,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 44209
+44209,Đào Minh Tú,NguoiKy,content,regex,0.95,Chữ ký của 44209
+44209,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 44209
+44209,Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 44209
+44209,Phát hành và kho quỹ,LinhVuc,enriched,rule,0.95,Lĩnh vực của 44209
+25692,Quốc hội,CoQuan,metadata,rule,0.98,Cơ quan ban hành của 25692
+25692,Nguyễn Phú Trọng,NguoiKy,content,regex,0.95,Chữ ký của 25692
+25692,Tổ chức tín dụng,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 25692
+25692,Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,content,rule,0.94,Đối tượng áp dụng tại 25692
+25692,Hoạt động Ngân hàng,LinhVuc,enriched,rule,0.95,Lĩnh vực của 25692
