@@ -22,3 +22,21 @@ Chào mừng bạn đến với kho lưu trữ bài tập thực hành RAG. Ch�
 
 ---
 *Cập nhật tự động bởi hệ thống.*
+---
+
+## 📸 Hình ảnh minh chứng kết quả thực hành (Evidence)
+
+### 1. Trực quan hóa Knowledge Graph trên Obsidian
+![Obsidian Graph View](images/0.png)
+
+### 2. Chi tiết liên kết giữa các Node trên Obsidian
+![Obsidian Node Detail](images/0.png)
+
+### 3. Cơ sở dữ liệu và Schema trên Neo4j
+![Neo4j Schema](images/1.png)
+
+### 4. Truy vấn chuỗi liên kết 3 tầng (Multi-hop Query) trên Neo4j
+![Neo4j Multi-hop](images/2.png)
+
+### 5. Kết quả kiểm thử toàn vẹn (Validation Report)
+![Validation Result](images/3.png)
