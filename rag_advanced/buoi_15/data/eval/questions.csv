@@ -1,0 +1,5 @@
+question_id,question,expected_chunk_id,query_type,note
+Q1,Quy định về việc giao nhận bảo quản vận chuyển tiền mặt tài sản quý,44209_art_2,EXACT_KEYWORD,Thông tư 01/2014/TT-NHNN Điều 1
+Q2,Ngân hàng Nhà nước cho tổ chức tín dụng vay ngắn hạn quy định như thế nào?,25692_art_26,SEMANTIC,Luật NHNN Điều 24
+Q3,Điều kiện và nguyên tắc trích nộp sử dụng Quỹ bảo đảm an toàn hệ thống,168220_art_58,MIXED,Thông tư 27/2024/TT-NHNN Điều 27
+Q4,Thành lập Hội đồng đầu tư quỹ liên kết đơn vị doanh nghiệp bảo hiểm,1_art_292,EXACT_KEYWORD,Điều 112

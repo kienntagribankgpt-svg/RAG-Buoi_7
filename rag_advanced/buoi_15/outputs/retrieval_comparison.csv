@@ -1,0 +1,17 @@
+question_id,query_type,method,expected_chunk,found_rank,hit@1,hit@3,hit@5
+Q1,EXACT_KEYWORD,BM25,44209_art_2,4,0,0,1
+Q1,EXACT_KEYWORD,Dense,44209_art_2,-1,0,0,0
+Q1,EXACT_KEYWORD,Hybrid,44209_art_2,-1,0,0,0
+Q1,EXACT_KEYWORD,Hybrid + Rerank,44209_art_2,4,0,0,1
+Q2,SEMANTIC,BM25,25692_art_26,1,1,1,1
+Q2,SEMANTIC,Dense,25692_art_26,1,1,1,1
+Q2,SEMANTIC,Hybrid,25692_art_26,1,1,1,1
+Q2,SEMANTIC,Hybrid + Rerank,25692_art_26,-1,0,0,0
+Q3,MIXED,BM25,168220_art_58,-1,0,0,0
+Q3,MIXED,Dense,168220_art_58,-1,0,0,0
+Q3,MIXED,Hybrid,168220_art_58,-1,0,0,0
+Q3,MIXED,Hybrid + Rerank,168220_art_58,-1,0,0,0
+Q4,EXACT_KEYWORD,BM25,1_art_292,-1,0,0,0
+Q4,EXACT_KEYWORD,Dense,1_art_292,-1,0,0,0
+Q4,EXACT_KEYWORD,Hybrid,1_art_292,-1,0,0,0
+Q4,EXACT_KEYWORD,Hybrid + Rerank,1_art_292,-1,0,0,0
