@@ -1,0 +1,61 @@
+{
+  "roles": {
+    "Admin": {
+      "description": "Toan quyen he thong",
+      "allowed_scopes": [
+        "ADMIN",
+        "HR",
+        "RISK",
+        "STAFF",
+        "COMMON",
+        "PUBLIC",
+        "ALL"
+      ]
+    },
+    "HR": {
+      "description": "To chuc Can bo",
+      "allowed_scopes": [
+        "HR",
+        "STAFF",
+        "COMMON",
+        "PUBLIC",
+        "ALL"
+      ]
+    },
+    "Risk_Manager": {
+      "description": "Quan ly Rui ro",
+      "allowed_scopes": [
+        "RISK",
+        "STAFF",
+        "COMMON",
+        "PUBLIC",
+        "ALL"
+      ]
+    },
+    "KiemToanVien": {
+      "description": "Kiem toan noi bo",
+      "allowed_scopes": [
+        "ADMIN",
+        "HR",
+        "RISK",
+        "STAFF",
+        "COMMON",
+        "PUBLIC",
+        "ALL"
+      ]
+    },
+    "Staff": {
+      "description": "Can bo nhan vien",
+      "allowed_scopes": [
+        "STAFF",
+        "COMMON",
+        "PUBLIC",
+        "ALL"
+      ]
+    },
+    "Guest": {
+      "description": "Khach vang lai",
+      "allowed_scopes": []
+    }
+  }
+}
