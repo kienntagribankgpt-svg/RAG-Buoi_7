@@ -69,10 +69,13 @@ with tab1:
     q1 = st.text_input("Nhập câu hỏi tra cứu:", value="Hạn mức vận chuyển tiền mặt bằng xe bọc thép?")
     if st.button("Chạy Tra cứu UC1"):
         prompt_uc1 = f"""
-        Bạn là cán bộ kiểm toán Agribank. Trả lời câu hỏi sau dựa trên quy định nội bộ:
-        Câu hỏi: {q1}
-        Vai trò người hỏi: {role}
-        Yêu cầu: Trích dẫn Điều/Khoản chính xác, nêu rõ mức độ bảo mật.
+        BẠN LÀ TRỢ LÝ KIỂM TOÁN NỘI BỘ AGRIBANK.
+        QUY TẮC BẮT BUỘC: TRẢ LỜI HOÀN TOÀN BẰNG TIẾNG VIỆT, KHÔNG DÙNG TIẾNG ANH.
+
+        Câu hỏi tra cứu: {q1}
+        Vai trò người dùng: {role}
+        
+        Hãy tóm tắt quy định nội bộ Agribank về hạn mức và an toàn vận chuyển tiền mặt theo các văn bản hiện hành. Trình bày ngắn gọn, rõ ràng bằng tiếng Việt.
         """
         with st.spinner("Đang tra cứu cơ sở tri thức cục bộ..."):
             ans1 = client.generate(prompt_uc1)
@@ -87,7 +90,15 @@ with tab2:
         value="Chi nhánh thực hiện giải ngân cho vay phục vụ nông nghiệp nhưng lưu trữ chứng từ giải ngân sau 45 ngày làm việc."
     )
     if st.button("Phân tích Khoảng trống Tuân thủ"):
-        prompt_uc2 = f"Đối soát quy trình sau với quy định Agribank và chỉ ra điểm chưa tuân thủ (Gap):\n{doc_text}"
+        prompt_uc2 = f"""
+        BẠN LÀ CHUYÊN VIÊN KIỂM SOÁT TUÂN THỦ AGRIBANK.
+        QUY TẮC BẮT BUỘC: TRẢ LỜI HOÀN TOÀN BẰNG TIẾNG VIỆT, KHÔNG DÙNG TIẾNG ANH.
+
+        Đối soát hồ sơ thực tế sau với quy định lưu trữ chứng từ tín dụng của Agribank:
+        Nội dung: {doc_text}
+
+        Hãy chỉ ra các điểm vi phạm, khoảng trống tuân thủ (Gap) và đưa ra kiến nghị khắc phục bằng tiếng Việt.
+        """
         with st.spinner("Mô hình đang phân tích khoảng trống..."):
             ans2 = client.generate(prompt_uc2)
             st.markdown(ans2)
@@ -102,7 +113,16 @@ with tab3:
         van_ban_2 = st.text_area("Văn bản 2 (Quy định mới/Thanh tra):", "Quyết định 2929: Định giá lại Bất động sản tối thiểu 12 tháng/lần.")
     
     if st.button("Phát hiện Xung đột UC3"):
-        prompt_uc3 = f"So sánh 2 văn bản sau và chỉ ra mâu thuẫn quy định:\n1. {van_ban_1}\n2. {van_ban_2}"
+        prompt_uc3 = f"""
+        BẠN LÀ CHUYÊN GIA PHÁP CHẾ & KIỂM TOÁN AGRIBANK.
+        QUY TẮC BẮT BUỘC: TRẢ LỜI HOÀN TOÀN BẰNG TIẾNG VIỆT.
+
+        So sánh 2 văn bản sau và phân tích điểm mâu thuẫn về thời hạn định giá tài sản:
+        1. {van_ban_1}
+        2. {van_ban_2}
+
+        Nêu rõ văn bản nào đang có hiệu lực ưu tiên áp dụng bằng tiếng Việt.
+        """
         with st.spinner("Đang đối soát xung đột..."):
             ans3 = client.generate(prompt_uc3)
             st.warning(ans3)
@@ -115,7 +135,13 @@ with tab4:
         ["Kiểm tra Thẩm định cấp Tín dụng KHDN", "Kiểm tra Tài sản bảo đảm", "Kiểm tra Giải ngân & Giám sát sau vay"]
     )
     if st.button("Sinh Checklist Kiểm toán UC4"):
-        prompt_uc4 = f"Tạo danh sách kiểm tra (Audit Checklist) 5 bước cho nghiệp vụ: {nv} tại Agribank kèm trích dẫn văn bản."
+        prompt_uc4 = f"""
+        BẠN LÀ TRƯỞNG ĐOÀN KIỂM TOÁN NỘI BỘ AGRIBANK.
+        QUY TẮC BẮT BUỘC: TRẢ LỜI HOÀN TOÀN BẰNG TIẾNG VIỆT.
+
+        Hãy lập danh sách kiểm tra (Audit Checklist) gồm 5 bước cụ thể cho phân hệ: {nv} tại Agribank.
+        Định dạng: Gạch đầu dòng rõ ràng từng bước kiểm tra bằng tiếng Việt.
+        """
         with st.spinner("Đang khởi tạo checklist..."):
             ans4 = client.generate(prompt_uc4)
             st.markdown(ans4)
