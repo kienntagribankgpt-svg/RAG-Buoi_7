@@ -1,6 +1,0 @@
-Metric,Threshold,Actual_Score,Status
-Faithfulness (Tính trung thực/Không bịa),>= 0.85,0.94,PASS
-Answer Relevance (Độ phù hợp câu trả lời),>= 0.85,0.92,PASS
-Context Recall (Độ phủ ngữ cảnh),>= 0.80,0.89,PASS
-Context Precision (Độ chính xác truy xuất),>= 0.80,0.91,PASS
-Hallucination Rate (Tỷ lệ bịa đặt),<= 0.02,0.0,PASS
